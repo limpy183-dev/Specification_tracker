@@ -1,0 +1,60 @@
+A-level Subject Content (Topics 4.1 – 4.14)
+This section includes advanced topics and deeper dives into the fundamentals.
+4.1 Fundamentals of programming
+4.1.1 Programming (Data types, variables, arithmetic, logic, strings, subroutines, recursion, etc.)
+4.1.2 Programming paradigms (Procedural and Object-Oriented Programming)
+4.2 Fundamentals of data structures
+4.2.1 Data structures and abstract data types
+4.2.2 Queues (Linear, circular, priority)
+4.2.3 Stacks
+4.2.4 Graphs (Adjacency matrices/lists)
+4.2.5 Trees (Binary trees)
+4.2.6 Hash tables
+4.2.7 Dictionaries
+4.2.8 Vectors
+4.3 Fundamentals of algorithms
+4.3.1 Graph-traversal (Breadth-first, Depth-first)
+4.3.2 Tree-traversal (Pre-order, In-order, Post-order)
+4.3.3 Reverse Polish notation
+4.3.4 Searching algorithms (Linear, Binary, Binary tree)
+4.3.5 Sorting algorithms (Bubble, Merge)
+4.3.6 Optimisation algorithms (Dijkstra’s shortest path)
+4.4 Theory of computation
+4.4.1 Abstraction and automation
+4.4.2 Regular languages (Finite State Machines, RegEx)
+4.4.3 Context-free languages (BNF and Syntax diagrams)
+4.4.4 Classification of algorithms (Big-O notation, Tractability, Halting problem)
+4.4.5 A model of computation (Turing Machines)
+4.5 Fundamentals of data representation
+4.5.1 Number systems (Natural, Integer, Rational, Irrational, Real, Ordinal)
+4.5.2 Number bases (Binary, Octal, Hexadecimal)
+4.5.3 Units of information (Bits, Bytes, Kibibytes, etc.)
+4.5.4 Binary number system (Unsigned, Signed/Two's complement, Floating point)
+4.5.5 Information coding systems (ASCII, Unicode, Error checking)
+4.5.6 Representing images, sound, and other data (Bitmaps, Vectors, MIDI, Compression)
+4.6 Fundamentals of computer systems
+4.6.1 Hardware and software
+4.6.2 Classification of programming languages (High-level vs. Low-level)
+4.6.3 Types of program translator (Assembler, Compiler, Interpreter)
+4.6.4 Logic gates (AND, OR, NOT, XOR, NAND, NOR, Adders)
+4.6.5 Boolean algebra
+4.7 Fundamentals of computer organisation and architecture
+4.7.1 Internal hardware components (Buses, I/O controllers)
+4.7.2 Stored program concept
+4.7.3 Structure and role of the processor (Fetch-Execute cycle, Registers)
+4.7.4 External hardware devices (Secondary storage, I/O devices)
+4.8 Consequences of uses of computing
+Individual (moral), social (ethical), legal, and cultural issues.
+4.9 Fundamentals of communication and networking
+4.9.1 Communication (Serial, Parallel, Baud rate, Bit rate)
+4.9.2 Networking (Topologies, Wireless/WiFi, CSMA/CA)
+4.9.3 The Internet (Packet switching, Routers, DNS, IP addresses)
+4.9.4 TCP/IP protocol (Layers, Sockets, HTTP, FTP, SSH, CRUD, REST, JSON)
+4.10 Fundamentals of databases
+Relational databases, Normalisation (1NF, 2NF, 3NF), and SQL.
+4.11 Big Data
+Volume, Velocity, Variety; Fact-based modeling.
+4.12 Fundamentals of functional programming
+Function types, First-class objects, Function application, and List processing (Map, Filter, Reduce).
+4.13 Systematic approach to problem solving
+Analysis, Design, Implementation, Testing, Evaluation.

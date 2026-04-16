@@ -1,0 +1,105 @@
+Module 1: Development of Practical Skills in Physics
+1.1 Practical skills assessed in a written examination
+1.1.1 Planning
+1.1.2 Implementing
+1.1.3 Analysis
+1.1.4 Evaluation
+1.2 Practical skills assessed in the practical endorsement
+1.2.1 Practical skills (Independent thinking, methods, research)
+1.2.2 Use of apparatus and techniques
+Module 2: Foundations of Physics
+2.1 Physical quantities and units
+2.1.1 Physical quantities
+2.1.2 S.I. units
+2.2 Making measurements and analysing data
+2.2.1 Measurements and uncertainties
+2.3 Nature of quantities
+2.3.1 Scalars and vectors
+Module 3: Forces and Motion
+3.1 Motion
+3.1.1 Kinematics
+3.1.2 Linear motion
+3.1.3 Projectile motion
+3.2 Forces in action
+3.2.1 Dynamics
+3.2.2 Motion with non-uniform acceleration
+3.2.3 Equilibrium
+3.2.4 Density and pressure
+3.3 Work, energy and power
+3.3.1 Work and conservation of energy
+3.3.2 Kinetic and potential energies
+3.3.3 Power
+3.4 Materials
+3.4.1 Springs
+3.4.2 Mechanical properties of matter
+3.5 Newton’s laws of motion and momentum
+3.5.1 Newton’s laws of motion
+3.5.2 Collisions
+Module 4: Electrons, Waves and Photons
+4.1 Charge and current
+4.1.1 Charge
+4.1.2 Mean drift velocity
+4.2 Energy, power and resistance
+4.2.1 Circuit symbols
+4.2.2 E.m.f. and p.d.
+4.2.3 Resistance
+4.2.4 Resistivity
+4.2.5 Power
+4.3 Electrical circuits
+4.3.1 Series and parallel circuits
+4.3.2 Internal resistance
+4.3.3 Potential dividers
+4.4 Waves
+4.4.1 Wave motion
+4.4.2 Electromagnetic waves
+4.4.3 Superposition
+4.4.4 Stationary waves
+4.5 Quantum physics
+4.5.1 Photons
+4.5.2 The photoelectric effect
+4.5.3 Wave–particle duality
+Module 5: Newtonian World and Astrophysics
+5.1 Thermal physics
+5.1.1 Temperature
+5.1.2 Solid, liquid and gas
+5.1.3 Thermal properties of materials
+5.1.4 Ideal gases
+5.2 Circular motion
+5.2.1 Kinematics of circular motion
+5.2.2 Centripetal force
+5.3 Oscillations
+5.3.1 Simple harmonic oscillations
+5.3.2 Energy of a simple harmonic oscillator
+5.3.3 Damping
+5.4 Gravitational fields
+5.4.1 Point and spherical masses
+5.4.2 Newton’s law of gravitation
+5.4.3 Planetary motion
+5.4.4 Gravitational potential and energy
+5.5 Astrophysics and cosmology
+5.5.1 Stars
+5.5.2 Electromagnetic radiation from stars
+5.5.3 Cosmology
+Module 6: Particles and Medical Physics
+6.1 Capacitors
+6.1.1 Capacitors
+6.1.2 Energy
+6.1.3 Charging and discharging capacitors
+6.2 Electric fields
+6.2.1 Point and spherical charges
+6.2.2 Coulomb’s law
+6.2.3 Uniform electric field
+6.2.4 Electric potential and energy
+6.3 Electromagnetism
+6.3.1 Magnetic fields
+6.3.2 Motion of charged particles
+6.3.3 Electromagnetism
+6.4 Nuclear and particle physics
+6.4.1 The nuclear atom
+6.4.2 Fundamental particles
+6.4.3 Radioactivity
+6.4.4 Nuclear fission and fusion
+6.5 Medical imaging
+6.5.1 Using X-rays
+6.5.2 Diagnostic methods in medicine
+6.5.3 Using ultrasound
